@@ -1,0 +1,6 @@
+﻿  Application.cpp
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\Application.cpp(18,78): error C2440: '=': cannot convert from 'const SDL_DisplayModeData *' to 'SDL_DisplayModeData *'
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\Application.cpp(18,75): message : Conversion loses qualifiers
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\Application.cpp(21,45): error C2664: 'bool SDL_SetWindowFullscreenMode(SDL_Window *,const SDL_DisplayMode *)': cannot convert argument 2 from 'SDL_DisplayMode' to 'const SDL_DisplayMode *'
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\Application.cpp(21,37): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\Dependencies\SDL\include\SDL3\SDL_video.h(992,34): message : see declaration of 'SDL_SetWindowFullscreenMode'
