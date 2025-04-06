@@ -21,9 +21,66 @@
     <ClCompile Include="Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Dependencies\ImGUI\imgui_demo.cpp">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Dependencies\ImGUI\imgui_draw.cpp">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Dependencies\ImGUI\imgui_tables.cpp">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Dependencies\ImGUI\imgui_widgets.cpp">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Dependencies\ImGUI\backends\imgui_impl_sdl3.cpp">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Dependencies\ImGUI\backends\imgui_impl_sdlrenderer3.cpp">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Dependencies\ImGUI\imgui.cpp">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="mainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Includes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dependencies\ImGUI\imgui.h">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dependencies\ImGUI\imgui_internal.h">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dependencies\ImGUI\imstb_rectpack.h">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dependencies\ImGUI\imstb_textedit.h">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dependencies\ImGUI\imstb_truetype.h">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dependencies\ImGUI\backends\imgui_impl_sdl3.h">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dependencies\ImGUI\backends\imgui_impl_sdlrenderer3.h">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dependencies\ImGUI\imconfig.h">
+      <Filter>ImGui_Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="mainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -147,10 +147,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\Dependencies\ImGUI\backends\imgui_impl_sdl3.cpp" />
+    <ClCompile Include="..\Dependencies\ImGUI\backends\imgui_impl_sdlrenderer3.cpp" />
+    <ClCompile Include="..\Dependencies\ImGUI\imgui.cpp" />
+    <ClCompile Include="..\Dependencies\ImGUI\imgui_demo.cpp" />
+    <ClCompile Include="..\Dependencies\ImGUI\imgui_draw.cpp" />
+    <ClCompile Include="..\Dependencies\ImGUI\imgui_tables.cpp" />
+    <ClCompile Include="..\Dependencies\ImGUI\imgui_widgets.cpp" />
     <ClCompile Include="Application.cpp" />
+    <ClCompile Include="mainWindow.cpp" />
+    <ClCompile Include="UserInterface.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\Dependencies\ImGUI\backends\imgui_impl_sdl3.h" />
+    <ClInclude Include="..\Dependencies\ImGUI\backends\imgui_impl_sdlrenderer3.h" />
+    <ClInclude Include="..\Dependencies\ImGUI\imconfig.h" />
+    <ClInclude Include="..\Dependencies\ImGUI\imgui.h" />
+    <ClInclude Include="..\Dependencies\ImGUI\imgui_internal.h" />
+    <ClInclude Include="..\Dependencies\ImGUI\imstb_rectpack.h" />
+    <ClInclude Include="..\Dependencies\ImGUI\imstb_textedit.h" />
+    <ClInclude Include="..\Dependencies\ImGUI\imstb_truetype.h" />
     <ClInclude Include="Includes.h" />
+    <ClInclude Include="mainWindow.h" />
+    <ClInclude Include="UserInterface.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
