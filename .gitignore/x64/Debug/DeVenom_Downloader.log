@@ -1,7 +1,3 @@
 ﻿  Application.cpp
-  mainWindow.cpp
-  UserInterface.cpp
-F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\UserInterface.cpp(16,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\UserInterface.cpp(16,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Generating Code...
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\Application.cpp(1,1): warning C4828: The file contains a character starting at offset 0x9cf that is illegal in the current source character set (codepage 65001).
   DeVenom_Downloader.vcxproj -> F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\x64\Debug\DeVenom_Downloader.exe

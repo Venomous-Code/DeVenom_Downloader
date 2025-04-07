@@ -42,12 +42,6 @@
     <ClCompile Include="..\Dependencies\ImGUI\imgui.cpp">
       <Filter>ImGui_Dependencies</Filter>
     </ClCompile>
-    <ClCompile Include="mainWindow.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="UserInterface.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Includes.h">
@@ -76,12 +70,6 @@
     </ClInclude>
     <ClInclude Include="..\Dependencies\ImGUI\imconfig.h">
       <Filter>ImGui_Dependencies</Filter>
-    </ClInclude>
-    <ClInclude Include="mainWindow.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="UserInterface.h">
-      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

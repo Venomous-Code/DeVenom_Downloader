@@ -155,8 +155,6 @@
     <ClCompile Include="..\Dependencies\ImGUI\imgui_tables.cpp" />
     <ClCompile Include="..\Dependencies\ImGUI\imgui_widgets.cpp" />
     <ClCompile Include="Application.cpp" />
-    <ClCompile Include="mainWindow.cpp" />
-    <ClCompile Include="UserInterface.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Dependencies\ImGUI\backends\imgui_impl_sdl3.h" />
@@ -168,8 +166,6 @@
     <ClInclude Include="..\Dependencies\ImGUI\imstb_textedit.h" />
     <ClInclude Include="..\Dependencies\ImGUI\imstb_truetype.h" />
     <ClInclude Include="Includes.h" />
-    <ClInclude Include="mainWindow.h" />
-    <ClInclude Include="UserInterface.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
