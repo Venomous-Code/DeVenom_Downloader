@@ -1,3 +1,14 @@
-﻿  Application.cpp
-F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\Application.cpp(1,1): warning C4828: The file contains a character starting at offset 0x9cf that is illegal in the current source character set (codepage 65001).
+﻿  ImGui_Interface.cpp
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(36,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(36,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(37,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(37,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(46,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(46,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(47,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(47,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(50,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(50,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(51,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\DeVenom_Downloader\ImGui_Interface.cpp(51,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   DeVenom_Downloader.vcxproj -> F:\Programming\Open Source Projects\DeVenom Resource Downloader\Software_Part\DeVenom_Downloader\x64\Debug\DeVenom_Downloader.exe
